@@ -4,7 +4,7 @@ Fibwave Guitar is a music visualizer for guitar practice. It shows Fibonacci pat
 
 ## Open the app
 
-**[Click here to open Fibwave Guitar](https://stevenwsharp-ctrl.github.io/fibwav-guitar/)**
+**[Click here to open Fibwave Guitar](https://stevenwsharp-ctrl.github.io/Fibwav-Guitar/)**
 
 ## How to use
 
